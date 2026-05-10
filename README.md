@@ -246,7 +246,7 @@ The data was cleaned and processed before analytics and machine learning impleme
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/CPBA.git
+git clone https://github.com/nikhilvishwakrma2002/customer-purchase-behavior-analysis-python-matplotlib-streamlit-ml.git
 ```
 
 ---
